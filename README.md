@@ -1,15 +1,14 @@
 # Trevor Michael Tomesh 
-
 ---
 address:
-- 83 - 5230 Aerodrome Rd.
-- Regina, SK S4W 0H7
+83 - 5230 Aerodrome Rd.
+Regina, SK S4W 0H7
 
 phone:
-- '(306)-550-2369'
+(306)-550-2369
 
 email:
-- trevor.tomesh@uregina.ca
+trevor.tomesh@uregina.ca
 ---
 
 Education
