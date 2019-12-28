@@ -1,7 +1,7 @@
 # Trevor Michael Tomesh 
 ---
 address:
-83 - 5230 Aerodrome Rd.
+83 - 5230 Aerodrome Rd. \
 Regina, SK S4W 0H7
 
 phone:
