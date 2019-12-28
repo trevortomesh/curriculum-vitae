@@ -81,7 +81,7 @@ Relevant Coursework *Graduate*
 
 Research
 
-General Research Interests {#general-research-interests .unnumbered}
+General Research Interests
 --------------------------
 
 -   Research Interests
