@@ -103,7 +103,7 @@ General Research Interests {#general-research-interests .unnumbered}
 
 -   Literate Programming
 
-Research Assistant, IceCube Neutrino Detector - 2007 {#research-assistant-icecube-neutrino-detector---2007 .unnumbered}
+Research Assistant, IceCube Neutrino Detector - 2007 
 ----------------------------------------------------
 
 UW-River Falls Physics Department, River Falls, Wisconsin
@@ -116,7 +116,7 @@ UW-River Falls Physics Department, River Falls, Wisconsin
 
 -   Learned and used AutoCAD to digitally document cargo crate design.
 
-Technical Assistant, UW River Falls Physics Department - 2006-2011 {#technical-assistant-uw-river-falls-physics-department---2006-2011 .unnumbered}
+Technical Assistant, UW River Falls Physics Department - 2006-2011 
 ------------------------------------------------------------------
 
 UW River Falls Physics Department, River Falls, Wisconsin
@@ -134,7 +134,7 @@ UW River Falls Physics Department, River Falls, Wisconsin
 
 -   Graded physics homework / Tutored students
 
-Researcher, UW River Falls Radio Telescope - 2009 {#researcher-uw-river-falls-radio-telescope---2009 .unnumbered}
+Researcher, UW River Falls Radio Telescope - 2009 
 -------------------------------------------------
 
 UW River Falls Physics Department, River Falls, Wisconsin
@@ -144,7 +144,7 @@ UW River Falls Physics Department, River Falls, Wisconsin
 
 -   Processed, analyzed and visualized data.
 
-Researcher, Research Experience for Undergraduates Program - 2009 {#researcher-research-experience-for-undergraduates-program---2009 .unnumbered}
+Researcher, Research Experience for Undergraduates Program - 2009 
 -----------------------------------------------------------------
 
 Vanderbilt University, Physics Department, Nashville, Tennessee
@@ -163,7 +163,7 @@ Vanderbilt University, Physics Department, Nashville, Tennessee
 -   Appended to N-body simulation a routine to provide random
     gravitational wave recoils to pairs of merging black holes.
 
-Interim Research Assistant - 2010 {#interim-research-assistant---2010 .unnumbered}
+Interim Research Assistant - 2010
 ---------------------------------
 
 University of Worcester, Computing Department, Worcester, England
@@ -178,7 +178,7 @@ University of Worcester, Computing Department, Worcester, England
 -   Evaluated the fidelity of these models by comparing to theoretical
     and computational models.
 
-Graduate Research in Educational Game Development - 2011-2012 {#graduate-research-in-educational-game-development---2011-2012 .unnumbered}
+Graduate Research in Educational Game Development - 2011-2012 
 -------------------------------------------------------------
 
 University of Worcester, Computing Department, Worcester, England
@@ -195,7 +195,7 @@ University of Worcester, Computing Department, Worcester, England
 
 Teaching Experience
 
-Sessional Lecturer - University of Regina (2014 - Present) {#sessional-lecturer---university-of-regina-2014---present .unnumbered}
+Sessional Lecturer - University of Regina (2014 - Present) 
 ----------------------------------------------------------
 
 *Courses Taught:*
