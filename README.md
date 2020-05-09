@@ -14,7 +14,7 @@ trevor.tomesh@uregina.ca
 Education
 
 **University of Regina**\
-*PhD in Computer Science*
+*PhD in Computer Science - June 2020*
 
 **University of Wisconsin River Falls**\
 *BSc Physics*\
