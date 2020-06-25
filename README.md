@@ -17,7 +17,7 @@ trevor.tomesh@uregina.ca
 *PhD in Computer Science - Class of 2020*
 
 **University of Wisconsin River Falls**\
-*BSc Physics - Class of 2006*\
+*BSc Physics - Class of 2011*\
 \
 Minor in Mathematics\
 Member of Sigma Pi Sigma Physics Honors Society\
