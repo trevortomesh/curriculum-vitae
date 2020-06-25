@@ -1,23 +1,23 @@
-# Trevor Michael Tomesh 
+# Dr. Trevor Michael Tomesh 
 ---
-address:
+###address:
 83 - 5230 Aerodrome Rd. \
 Regina, SK S4W 0H7
 
-phone:
+###phone:
 (306)-550-2369
 
-email:
+###email:
 trevor.tomesh@uregina.ca
 ---
 
-Education
+##Education
 
 **University of Regina**\
-*PhD in Computer Science - June 2020*
+*PhD in Computer Science - Class of 2020*
 
 **University of Wisconsin River Falls**\
-*BSc Physics*\
+*BSc Physics - Class of 2006*\
 \
 Minor in Mathematics\
 Member of Sigma Pi Sigma Physics Honors Society\
