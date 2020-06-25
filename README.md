@@ -1,17 +1,17 @@
 # Dr. Trevor Michael Tomesh 
 ---
-###address:
+### address:
 83 - 5230 Aerodrome Rd. \
 Regina, SK S4W 0H7
 
-###phone:
+### phone:
 (306)-550-2369
 
-###email:
+### email:
 trevor.tomesh@uregina.ca
 ---
 
-##Education
+## Education
 
 **University of Regina**\
 *PhD in Computer Science - Class of 2020*
@@ -79,7 +79,7 @@ Relevant Coursework *Graduate*
 
 -   Independent Study In Computational Physics
 
-Research
+## Research
 
 General Research Interests
 --------------------------
@@ -200,7 +200,7 @@ University of Worcester, Computing Department, Worcester, England
 
 -   Presented research at various conferences in Europe and the UK.
 
-Teaching Experience
+## Teaching Experience
 
 Sessional Lecturer - University of Regina (2014 - Present) 
 ----------------------------------------------------------
@@ -228,7 +228,7 @@ Sessional Lecturer - University of Regina (2014 - Present)
 -   CTCH 310 AD - \"Intro to Computer Game and VR Design\" (Winter 2018,
     Winter 2019)
 
-Publications
+## Publications
 
 Tomesh, T. and Hepting, D. (2017). Environmental sensing with recycled
 materials. \[online\] O'Reilly Media. Available at:
@@ -250,7 +250,7 @@ Abstracts. 2011.
 Tomesh, Trevor. "Computational Simulation of a Simple Pendulum Driven by
 a Natural Chaotic Function." APS March Meeting Abstracts. 2010.
 
-Peer Review
+## Peer Review
 
 Mouhoub, Malek, et al., eds. Recent Trends and Future Technology in
 Applied Intelligence: 31st International Conference on Industrial
