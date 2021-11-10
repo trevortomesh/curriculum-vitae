@@ -1,7 +1,7 @@
 # Dr. Trevor Michael Tomesh 
 ---
 ### address:
-83 - 5230 Aerodrome Rd. \
+83 - 5230 Aerodrome Rd. 
 Regina, SK S4W 0H7
 
 ### phone:
@@ -13,14 +13,14 @@ trevor.tomesh@uregina.ca
 
 ## Education
 
-**University of Regina**\
+**University of Regina**
 *PhD in Computer Science - Class of 2020*
 
-**University of Wisconsin River Falls**\
-*BSc Physics - Class of 2011*\
-\
-Minor in Mathematics\
-Member of Sigma Pi Sigma Physics Honors Society\
+**University of Wisconsin River Falls**
+*BSc Physics - Class of 2011*
+
+Minor in Mathematics
+Member of Sigma Pi Sigma Physics Honors Society
 Ronald E. McNair Scholar
 
 Relevant Coursework *Graduate*
@@ -202,31 +202,42 @@ University of Worcester, Computing Department, Worcester, England
 
 ## Teaching Experience
 
-Sessional Lecturer - University of Regina (2014 - Present) 
+Sessional Lecturer  - University of Regina (2014 - 2021) 
 ----------------------------------------------------------
 
 *Courses Taught:*
 
--   CS 207 - Building Interactive Gadgets (2014 - Present)
-
+-   CS 110 - Programming and Problem Solving (Spring 2021)
+-   CS 207 - Building Interactive Gadgets (2014 - 2021)
 -   CS 427 / 827 - Computer Audio (Fall 2018)
-
 -   CS 330 - Intro to Operating Systems (Spring 2018)
-
 -   CS 290 AK - Topics in Data Acquisition and Analysis (Winter 2018)
-
 -   CS 290 AJ - Interactive Simulation Methods (Fall 2017, Winter 2019)
-
 -   CS 829 - Information Theory and Applications (Summer 2019)
-
 -   CS 890AC - Data Analysis from the Internet (Summer 2019)
-
--   CS 455 / 855 - Mobile Computing (Fall 2019)
-
+-   CS 455 / 855 - Mobile Computing (Fall 2019, Summer 2021)
 -   CS 490 DB - Topics in Natural Science (Fall 2019)
+-   CTCH 310 AD - Intro to Computer Game and VR Design (Winter 2018,
+    Winter 2019, Winter 2020, Winter 2021)
+-   CTCH 204 - Intro to Creative Coding (Winter 2021)
 
--   CTCH 310 AD - \"Intro to Computer Game and VR Design\" (Winter 2018,
-    Winter 2019)
+Sessional Lecturer  - Lakehead University (2021) 
+----------------------------------------------------------
+
+- COMP 2340 - Mobile Computing (Winter 2021)
+- COMP 5112 GDE - Research Methodology (Summer 2021)
+
+
+
+Term Lecturer (3 year) - University of Regina (2021 - Present)
+----------------------------------------------------------
+
+- CS 280 - Risk and Reward in the Information Society (Fall 2021)
+- CS 890AC - Data Analysis from the Internet (Fall 2021)
+
+----------------------------------------------------------
+
+
 
 ## Publications
 
