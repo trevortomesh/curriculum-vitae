@@ -1,4 +1,6 @@
 # Dr. Trevor Michael Tomesh 
+## Lecturer - University of Regina, Computer Science
+## PH.D. Computer Science
 ---
 ### address:
 83 - 5230 Aerodrome Rd. 
@@ -23,68 +25,36 @@ Minor in Mathematics
 Member of Sigma Pi Sigma Physics Honors Society
 Ronald E. McNair Scholar
 
-Relevant Coursework *Graduate*
-
--   CS 839 - Web Intelligence and Electronic Commerce
-
--   CS 827 - Computer Audio
-
--   CS 805 - Computer Graphics
-
--   CS 807 - Building Interactive Gadgets
-
--   CS 809 - Interactive Software
-
--   CS 805 - Human Computer Interactions
-
-*Undergraduate*
-
--   General Physics I & II
-
--   Modern Physics
-
--   General/Intermediate Physics Laboratories
-
--   Calculus I-III,
-
--   Math For Physics and Engineering I & II
-
--   Discrete Math
-
--   Scientific Programming
-
--   Mathematical Programming
-
--   Differential Equations
-
--   Astronomy
-
--   Electronics (circuits)
-
--   Advanced Physics Laboratory
-
--   Thermodynamics
-
--   Classical Mechanics
-
--   Astrophysics
-
--   Electricity and Mag.
-
--   Linear Algebra
-
--   Quantum Mechanics
-
--   Numerical Analysis
-
--   Independent Study In Computational Physics
-
 ## Research
+
+
+### Publications
+
+Tomesh, T. and Hepting, D. (2017). Environmental sensing with recycled
+materials. \[online\] O'Reilly Media. Available at:
+https://www.oreilly.com/ideas/environmentalsensing-with-recycled-materials
+\[Accessed 27 Mar. 2019\].
+
+Tomesh, Trevor Michael, and Daryl H. Hepting. "DIY game console
+development." Proceedings of the first ACM SIGCHI annual symposium on
+Computer-human interaction in play. ACM, 2014.
+
+Tomesh, Trevor M. "Teaching programming with Python and the Blender Game
+Engine."
+
+Tomesh, Trevor, and Colin Price. "Design and development of physics
+simulations in the field of oscillations and waves suitable for k-12 and
+undergraduate instruction using video game technology." APS Meeting
+Abstracts. 2011.
+
+Tomesh, Trevor. "Computational Simulation of a Simple Pendulum Driven by
+a Natural Chaotic Function." APS March Meeting Abstracts. 2010.
+
 
 General Research Interests
 --------------------------
 
--   Research Interests
+-   Human-Computer Interaction / Human Computer Communication
 
 -   General Systems Theory
 
@@ -110,46 +80,38 @@ General Research Interests
 
 -   Literate Programming
 
-Research Assistant, IceCube Neutrino Detector - 2007 
-----------------------------------------------------
 
-UW-River Falls Physics Department, River Falls, Wisconsin
+Graduate Research in Educational Game Development - 2011-2012 
+-------------------------------------------------------------
 
--   Built temperature stabilizing sunshades for digital optical modules,
-    to be used at South Pole
+University of Worcester, Computing Department, Worcester, England
 
--   Constructed customized crates for materials to be shipped to
-    Antarctica
+-   Developed a working prototype of an educational game targeted at
+    high school physics students in the Blender Game Engine.
 
--   Learned and used AutoCAD to digitally document cargo crate design.
+-   Met with instructors to gather design specifications.
 
-Technical Assistant, UW River Falls Physics Department - 2006-2011 
-------------------------------------------------------------------
+-   Carried out student interviews to asses knowledge and experiences
+    with educational games and interest in games for learning.
 
-UW River Falls Physics Department, River Falls, Wisconsin
+-   Presented research at various conferences in Europe and the UK.
 
--   Assisted in technical and manual departmental work.
 
--   Built demonstrations for Society of Physics Students outreach
-    activities.
+Interim Research Assistant - 2010
+---------------------------------
 
--   Repaired and maintained laboratory equipment.
+University of Worcester, Computing Department, Worcester, England
 
--   Set up laboratory equipment.
+-   Designed and developed simulations in the fields of waves and
+    oscillations using video game technology for physics education
 
--   Construct Digital Displays.
+-   Used the Unreal Tournament 2004 engine to model oscillators realized
+    and developed effective models for the K-12 and undergraduate
+    physics classrooms.
 
--   Graded physics homework / Tutored students
+-   Evaluated the fidelity of these models by comparing to theoretical
+    and computational models.
 
-Researcher, UW River Falls Radio Telescope - 2009 
--------------------------------------------------
-
-UW River Falls Physics Department, River Falls, Wisconsin
-
--   Constructed a functional Radio JOVE radio telescope to \"listen\" to
-    radio signals from Jupiter's magnetosphere.
-
--   Processed, analyzed and visualized data.
 
 Researcher, Research Experience for Undergraduates Program - 2009 
 -----------------------------------------------------------------
@@ -170,37 +132,62 @@ Vanderbilt University, Physics Department, Nashville, Tennessee
 -   Appended to N-body simulation a routine to provide random
     gravitational wave recoils to pairs of merging black holes.
 
-Interim Research Assistant - 2010
----------------------------------
 
-University of Worcester, Computing Department, Worcester, England
+Researcher, UW River Falls Radio Telescope - 2009 
+-------------------------------------------------
 
--   Designed and developed simulations in the fields of waves and
-    oscillations using video game technology for physics education
+UW River Falls Physics Department, River Falls, Wisconsin
 
--   Used the Unreal Tournament 2004 engine to model oscillators realized
-    and developed effective models for the K-12 and undergraduate
-    physics classrooms.
+-   Constructed a functional Radio JOVE radio telescope to \"listen\" to
+    radio signals from Jupiter's magnetosphere.
 
--   Evaluated the fidelity of these models by comparing to theoretical
-    and computational models.
+-   Processed, analyzed and visualized data.
 
-Graduate Research in Educational Game Development - 2011-2012 
--------------------------------------------------------------
 
-University of Worcester, Computing Department, Worcester, England
+Research Assistant, IceCube Neutrino Detector - 2007 
+----------------------------------------------------
 
--   Developed a working prototype of an educational game targeted at
-    high school physics students in the Blender Game Engine.
+UW-River Falls Physics Department, River Falls, Wisconsin
 
--   Met with instructors to gather design specifications.
+-   Built temperature stabilizing sunshades for digital optical modules,
+    to be used at South Pole
 
--   Carried out student interviews to asses knowledge and experiences
-    with educational games and interest in games for learning.
+-   Constructed customized crates for materials to be shipped to
+    Antarctica
 
--   Presented research at various conferences in Europe and the UK.
+-   Learned and used AutoCAD to digitally document cargo crate design.
 
-## Teaching Experience
+
+## Service
+
+### Peer Reviewed Articles
+
+Mouhoub, Malek, et al., eds. Recent Trends and Future Technology in
+Applied Intelligence: 31st International Conference on Industrial
+Engineering and Other Applications of Applied Intelligent Systems,
+IEA/AIE 2018, Montreal, QC, Canada, June 25-28, 2018, Proceedings. Vol.
+10868. Springer, 2018.
+
+Amine, Abdelmalek, et al., eds. Computational Intelligence and Its
+Applications: 6th IFIP TC 5 International Conference, CIIA 2018, Oran,
+Algeria, May 8-10, 2018, Proceedings. Vol. 522. Springer, 2018.
+
+
+## Teaching
+
+Term Lecturer (3 year) - University of Regina (2021 - Present)
+----------------------------------------------------------
+
+- CS 280 - Risk and Reward in the Information Society (Fall 2021)
+- CS 890AC - Data Analysis from the Internet (Fall 2021)
+
+----------------------------------------------------------
+
+Sessional Lecturer  - Lakehead University (2021) 
+----------------------------------------------------------
+
+- COMP 2340 - Mobile Computing (Winter 2021)
+- COMP 5112 GDE - Research Methodology (Summer 2021)
 
 Sessional Lecturer  - University of Regina (2014 - 2021) 
 ----------------------------------------------------------
@@ -221,54 +208,3 @@ Sessional Lecturer  - University of Regina (2014 - 2021)
     Winter 2019, Winter 2020, Winter 2021)
 -   CTCH 204 - Intro to Creative Coding (Winter 2021)
 
-Sessional Lecturer  - Lakehead University (2021) 
-----------------------------------------------------------
-
-- COMP 2340 - Mobile Computing (Winter 2021)
-- COMP 5112 GDE - Research Methodology (Summer 2021)
-
-
-
-Term Lecturer (3 year) - University of Regina (2021 - Present)
-----------------------------------------------------------
-
-- CS 280 - Risk and Reward in the Information Society (Fall 2021)
-- CS 890AC - Data Analysis from the Internet (Fall 2021)
-
-----------------------------------------------------------
-
-
-
-## Publications
-
-Tomesh, T. and Hepting, D. (2017). Environmental sensing with recycled
-materials. \[online\] O'Reilly Media. Available at:
-https://www.oreilly.com/ideas/environmentalsensing-with-recycled-materials
-\[Accessed 27 Mar. 2019\].
-
-Tomesh, Trevor Michael, and Daryl H. Hepting. "DIY game console
-development." Proceedings of the first ACM SIGCHI annual symposium on
-Computer-human interaction in play. ACM, 2014.
-
-Tomesh, Trevor M. "Teaching programming with Python and the Blender Game
-Engine."
-
-Tomesh, Trevor, and Colin Price. "Design and development of physics
-simulations in the field of oscillations and waves suitable for k-12 and
-undergraduate instruction using video game technology." APS Meeting
-Abstracts. 2011.
-
-Tomesh, Trevor. "Computational Simulation of a Simple Pendulum Driven by
-a Natural Chaotic Function." APS March Meeting Abstracts. 2010.
-
-## Peer Review
-
-Mouhoub, Malek, et al., eds. Recent Trends and Future Technology in
-Applied Intelligence: 31st International Conference on Industrial
-Engineering and Other Applications of Applied Intelligent Systems,
-IEA/AIE 2018, Montreal, QC, Canada, June 25-28, 2018, Proceedings. Vol.
-10868. Springer, 2018.
-
-Amine, Abdelmalek, et al., eds. Computational Intelligence and Its
-Applications: 6th IFIP TC 5 International Conference, CIIA 2018, Oran,
-Algeria, May 8-10, 2018, Proceedings. Vol. 522. Springer, 2018.
