@@ -13,10 +13,12 @@ Regina, SK S4W 0H7
 trevor.tomesh@uregina.ca
 ---
 
-## Education
+### Education
 
 **University of Regina**
 *PhD in Computer Science - Class of 2020*
+Thesis Title: "Toward a Theory of Interactive Hardware"
+Supervisor: Dr. Daryl Hepting
 
 **University of Wisconsin River Falls**
 *BSc Physics - Class of 2011*
@@ -26,7 +28,6 @@ Member of Sigma Pi Sigma Physics Honors Society
 Ronald E. McNair Scholar
 
 ## Research
-
 
 ### Publications
 
@@ -50,39 +51,12 @@ Abstracts. 2011.
 Tomesh, Trevor. "Computational Simulation of a Simple Pendulum Driven by
 a Natural Chaotic Function." APS March Meeting Abstracts. 2010.
 
+### General Research Interests
 
-General Research Interests
---------------------------
-
--   Human-Computer Interaction / Human Computer Communication
-
--   General Systems Theory
-
--   Amalgamated Systems
-
--   Complex Systems
-
--   Analogous Systems
-
--   Analog Computing Systems
-
--   Constrained Resource Computing
-
--   Embedded Computing
-
--   Information Theory
-
--   Open Source Hardware
-
--   Simulation Methods
-
--   Games Studies
-
--   Literate Programming
+My research interests are generally at the intersection of computing and other fields. I am especially interested in interactive computing systems and cybernetic approaches to human-computer interaction as well as "humane" approaches to computing system design (e.g. human readable databases). Other research interests include systems theory, games and simulations. I am especially passionate about student involvement in research.
 
 
-Graduate Research in Educational Game Development - 2011-2012 
--------------------------------------------------------------
+### Graduate Research in Educational Game Development - 2011-2012 
 
 University of Worcester, Computing Department, Worcester, England
 
@@ -97,8 +71,7 @@ University of Worcester, Computing Department, Worcester, England
 -   Presented research at various conferences in Europe and the UK.
 
 
-Interim Research Assistant - 2010
----------------------------------
+### Interim Research Assistant - 2010
 
 University of Worcester, Computing Department, Worcester, England
 
@@ -113,8 +86,7 @@ University of Worcester, Computing Department, Worcester, England
     and computational models.
 
 
-Researcher, Research Experience for Undergraduates Program - 2009 
------------------------------------------------------------------
+### Researcher, Research Experience for Undergraduates Program - 2009 
 
 Vanderbilt University, Physics Department, Nashville, Tennessee
 
@@ -133,8 +105,7 @@ Vanderbilt University, Physics Department, Nashville, Tennessee
     gravitational wave recoils to pairs of merging black holes.
 
 
-Researcher, UW River Falls Radio Telescope - 2009 
--------------------------------------------------
+### Researcher, UW River Falls Radio Telescope - 2009 
 
 UW River Falls Physics Department, River Falls, Wisconsin
 
@@ -144,8 +115,7 @@ UW River Falls Physics Department, River Falls, Wisconsin
 -   Processed, analyzed and visualized data.
 
 
-Research Assistant, IceCube Neutrino Detector - 2007 
-----------------------------------------------------
+### Research Assistant, IceCube Neutrino Detector - 2007 
 
 UW-River Falls Physics Department, River Falls, Wisconsin
 
@@ -160,13 +130,25 @@ UW-River Falls Physics Department, River Falls, Wisconsin
 
 ## Service
 
+### Committees
+#### Chair - University of Regina  Coop Committee (current)
+The coop committee is responsible for parsing and approving or denying
+applications from potential coop positions. We are also responsible for reviewing
+coop reports. 
+
+#### Student Representative - University of Regina Creative Technologies Committee (2017-2018)
+
+I attended joint meetings of the Arts and Computer Science departments to discuss the direction of and make decisions
+about the Creative Technologies program.  
+
+
 ### Peer Reviewed Articles
 
 Mouhoub, Malek, et al., eds. Recent Trends and Future Technology in
 Applied Intelligence: 31st International Conference on Industrial
 Engineering and Other Applications of Applied Intelligent Systems,
-IEA/AIE 2018, Montreal, QC, Canada, June 25-28, 2018, Proceedings. Vol.
-10868. Springer, 2018.
+IEA/AIE 2018, Montreal, QC, Canada, June 25-28, 2018, Proceedings. Vol.10868
+Springer, 2018.
 
 Amine, Abdelmalek, et al., eds. Computational Intelligence and Its
 Applications: 6th IFIP TC 5 International Conference, CIIA 2018, Oran,
@@ -175,22 +157,21 @@ Algeria, May 8-10, 2018, Proceedings. Vol. 522. Springer, 2018.
 
 ## Teaching
 
-Term Lecturer (3 year) - University of Regina (2021 - Present)
-----------------------------------------------------------
+### Term Lecturer (3 year) - University of Regina (2021 - Present)
+
+- CS 205 - Introduction to Multimedia Systems
+
+- CS 455 / 855 - Mobile Computing
 
 - CS 280 - Risk and Reward in the Information Society (Fall 2021)
+
 - CS 890AC - Data Analysis from the Internet (Fall 2021)
 
-----------------------------------------------------------
-
-Sessional Lecturer  - Lakehead University (2021) 
-----------------------------------------------------------
-
+### Sessional Lecturer  - Lakehead University (2021) 
 - COMP 2340 - Mobile Computing (Winter 2021)
 - COMP 5112 GDE - Research Methodology (Summer 2021)
 
-Sessional Lecturer  - University of Regina (2014 - 2021) 
-----------------------------------------------------------
+### Sessional Lecturer  - University of Regina (2014 - 2021) 
 
 *Courses Taught:*
 
@@ -207,4 +188,3 @@ Sessional Lecturer  - University of Regina (2014 - 2021)
 -   CTCH 310 AD - Intro to Computer Game and VR Design (Winter 2018,
     Winter 2019, Winter 2020, Winter 2021)
 -   CTCH 204 - Intro to Creative Coding (Winter 2021)
-
