@@ -1,16 +1,18 @@
 # Dr. Trevor Michael Tomesh 
-## Lecturer - University of Regina, Computer Science
-## PH.D. Computer Science
+## Assistant Professor 
+### University of Wisconsin - River Falls
+### Ph.D. Computer Science
 ---
 ### address:
-83 - 5230 Aerodrome Rd. 
-Regina, SK S4W 0H7
+341 N 1st Street
+New Richmond, WI 54017
+United States
 
 ### phone:
-(306)-550-2369
+(715)977-7281
 
 ### email:
-trevor.tomesh@uregina.ca
+<small>trevor.tomesh@uwrf.edu</small>
 ---
 
 ### Education
@@ -131,7 +133,7 @@ UW-River Falls Physics Department, River Falls, Wisconsin
 ## Service
 
 ### Committees
-#### Chair - University of Regina  Coop Committee (current)
+#### Chair - University of Regina  Coop Committee (2022)
 The coop committee is responsible for parsing and approving or denying
 applications from potential coop positions. We are also responsible for reviewing
 coop reports. 
@@ -157,7 +159,20 @@ Algeria, May 8-10, 2018, Proceedings. Vol. 522. Springer, 2018.
 
 ## Teaching
 
-### Term Lecturer (3 year) - University of Regina (2021 - Present)
+### Assistant Professor (Tenure Track) University of Wisconsin - River Falls (2022 - Present)
+
+- CIDS 161 - Programming I (Java)
+
+- CIDS 162 - Programming II (Java)
+
+- CIDS 235 - Object Oriented Programming (Java)
+
+- CIDS 325 - Web Development II (Javascript)
+
+- CIDS 120 - Technology Ethics 
+
+
+### Term Lecturer (3 year) - University of Regina (2021 - 2022)
 
 - CS 205 - Introduction to Multimedia Systems
 
@@ -169,6 +184,7 @@ Algeria, May 8-10, 2018, Proceedings. Vol. 522. Springer, 2018.
 
 ### Sessional Lecturer  - Lakehead University (2021) 
 - COMP 2340 - Mobile Computing (Winter 2021)
+
 - COMP 5112 GDE - Research Methodology (Summer 2021)
 
 ### Sessional Lecturer  - University of Regina (2014 - 2021) 
@@ -176,15 +192,26 @@ Algeria, May 8-10, 2018, Proceedings. Vol. 522. Springer, 2018.
 *Courses Taught:*
 
 -   CS 110 - Programming and Problem Solving (Spring 2021)
+
 -   CS 207 - Building Interactive Gadgets (2014 - 2021)
+
 -   CS 427 / 827 - Computer Audio (Fall 2018)
+
 -   CS 330 - Intro to Operating Systems (Spring 2018)
+
 -   CS 290 AK - Topics in Data Acquisition and Analysis (Winter 2018)
+
 -   CS 290 AJ - Interactive Simulation Methods (Fall 2017, Winter 2019)
+
 -   CS 829 - Information Theory and Applications (Summer 2019)
+
 -   CS 890AC - Data Analysis from the Internet (Summer 2019)
+
 -   CS 455 / 855 - Mobile Computing (Fall 2019, Summer 2021)
+
 -   CS 490 DB - Topics in Natural Science (Fall 2019)
+
 -   CTCH 310 AD - Intro to Computer Game and VR Design (Winter 2018,
     Winter 2019, Winter 2020, Winter 2021)
+
 -   CTCH 204 - Intro to Creative Coding (Winter 2021)
