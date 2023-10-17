@@ -1,15 +1,13 @@
 ## Dr. Trevor Michael Tomesh
 
-## Assistant Professor
+**Assistant Professor**  
+*University of Wisconsin - River Falls*
 
-### University of Wisconsin - River Falls
+**Ph.D. Computer Science**
 
-### Ph.D. Computer Science
-
-### Contact Information
-
-**Address:** 341 N 1st Street, New Richmond, WI 54017, United States
-**Phone:** (715) 977-7281
+**Contact Information**
+**Address:** 341 N 1st Street, New Richmond, WI 54017, United States  
+**Phone:** (715) 977-7281  
 **Email:** [trevor.tomesh@uwrf.edu](mailto:trevor.tomesh@uwrf.edu)
 
 ## Education
@@ -33,7 +31,7 @@
 
 ### Publications
 
-1. Tomesh, T. and Hepting, D. (2017). Environmental Sensing with Recycled Materials. O'Reilly Media. Available at: [https://www.oreilly.com/ideas/environmentalsensing-with-recycled-materials](https://www.oreilly.com/ideas/environmentalsensing-with-recycled-materials) [Accessed 27 Mar. 2019].
+1. Tomesh, T. and Hepting, D. (2017). [Environmental Sensing with Recycled Materials](https://www.oreilly.com/ideas/environmentalsensing-with-recycled-materials). O'Reilly Media.
 
 2. Tomesh, Trevor Michael, and Daryl H. Hepting. "DIY Game Console Development." Proceedings of the first ACM SIGCHI annual symposium on Computer-human interaction in play. ACM, 2014.
 
@@ -83,20 +81,32 @@ My research interests lie at the intersection of computing and other fields. I a
 
 #### Committees
 
+**Member - UWRF Student Support Services Coach Search and Screen Committee (2023)**
+
+- Participated in the search for a new academic coach for the Student Support Services at UWRF.
+
 **Chair - University of Regina Coop Committee (2022)**
-The Coop Committee oversees the review and approval of coop position applications and evaluates coop reports.
+
+- The Coop Committee oversees the review and approval of coop position applications and evaluates coop reports.
 
 **Student Representative - University of Regina Creative Technologies Committee (2017-2018)**
-Participated in joint meetings of the Arts and Computer Science departments to shape the direction of the Creative Technologies program.
 
-#### Peer-Reviewed Articles
+- Participated in joint meetings of the Arts and Computer Science departments to shape the direction of the Creative Technologies program.
+
+#### Peer-Review
 
 1. Mouhoub, Malek, et al., eds. Recent Trends and Future Technology in Applied Intelligence: 31st International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems, IEA/AIE 2018, Montreal, QC, Canada, June 25-28, 2018, Proceedings. Vol. 10868. Springer, 2018.
 2. Amine, Abdelmalek, et al., eds. Computational Intelligence and Its Applications: 6th IFIP TC 5 International Conference, CIIA 2018, Oran, Algeria, May 8-10, 2018, Proceedings. Vol. 522. Springer, 2018.
 
+#### Other
+
+**Faculty Advisor - UWRF Turning Point USA (2023 - Present)**
+
+- Providing guidance, mentorship, and support to student activists in establishing and maintaining a TPUSA chapter on campus, coordinating events, promoting conservative values, advocating for limited government and free-market principles, and maintaining compliance with university policies, thus contributing to the organization's mission of empowering the next generation of conservative leaders.
+
 ## Teaching
 
-### Assistant Professor (Tenure Track) University of Wisconsin - River Falls (2022 - Present)
+**Assistant Professor (Tenure Track) University of Wisconsin - River Falls (2022 - Present)**
 
 Courses Taught:
 
@@ -107,7 +117,7 @@ Courses Taught:
 - CIDS 325 - Web Development II (JavaScript)
 - CIDS 120 - Technology Ethics 
 
-### Term Lecturer  - University of Regina (2021 - 2022)
+**Term Lecturer  - University of Regina (2021 - 2022)**
 
 Courses Taught:
 
@@ -116,14 +126,14 @@ Courses Taught:
 - CS 280 - Risk and Reward in the Information Society (Fall 2021)
 - CS 890AC - Data Analysis from the Internet (Fall 2021)
 
-### Sessional Lecturer - Lakehead University (2021)
+**Sessional Lecturer - Lakehead University (2021)**
 
 Courses Taught:
 
 - COMP 2340 - Mobile Computing (Winter 2021)
 - COMP 5112 GDE - Research Methodology (Summer 2021)
 
-### Sessional Lecturer - University of Regina (2014 - 2021)
+**Sessional Lecturer - University of Regina (2014 - 2021)**
 
 Courses Taught:
 
@@ -134,8 +144,4 @@ Courses Taught:
 - CS 290 AK - Topics in Data Acquisition and Analysis (Winter 2018)
 - CS 290 AJ - Interactive Simulation Methods (Fall 2017, Winter 2019)
 - CS 829 - Information Theory and Applications (Summer 2019)
-- CS 890AC - Data Analysis from the Internet (Summer 2019)
-- CS 455 / 855 - Mobile Computing (Fall 2019, Summer 2021)
-- CS 490 DB - Topics in Natural Science (Fall 2019)
-- CTCH 310 AD - Intro to Computer Game and VR Design (Winter 2018, Winter 2019, Winter 2020, Winter 2021)
-- CTCH 204 - Intro to Creative Coding (Winter 2021)
+- CS 890AC - Data Analysis from the Internet
