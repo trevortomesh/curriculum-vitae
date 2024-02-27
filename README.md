@@ -6,8 +6,6 @@
 **Ph.D. Computer Science**
 
 **Contact Information**
-**Address:** 341 N 1st Street, New Richmond, WI 54017, United States  
-**Phone:** (715) 977-7281  
 **Email:** [trevor.tomesh@uwrf.edu](mailto:trevor.tomesh@uwrf.edu)
 
 ## Education
@@ -43,7 +41,9 @@
 
 ### General Research Interests
 
-My research interests lie at the intersection of computing and other fields. I am particularly focused on interactive computing systems, cybernetic approaches to human-computer interaction, and "humane" computing system design, such as human-readable databases. Additionally, I have a keen interest in systems theory, games, and simulations. I am dedicated to involving students in research endeavors.
+My research interests lie at the intersection of computing and other fields. I am particularly focused on interactive computing systems, cybernetic approaches to human-computer interaction, and "humane" computing system design, such as human-readable databases. Additionally, I have a keen interest in systems theory, games, and simulations as well as applications for LLMs. 
+
+I am dedicated to involving students in research endeavors.
 
 ### Graduate Research in Educational Game Development (2011-2012)
 
@@ -110,10 +110,10 @@ My research interests lie at the intersection of computing and other fields. I a
 
 Courses Taught:
 
-- CIDS 161 - Programming I (Java)
+- CIDS 161 - Programming I (Python)
 - CIDS 162 - Programming II (Java)
-- CIDS 235 - Object-Oriented Programming (Java)
-- CIDS 225 - Web Development I
+- CIDS 235 - Programming Paradigms (Java)
+- CIDS 225 - Web Development I (HMTL + CSS)
 - CIDS 325 - Web Development II (JavaScript)
 - CIDS 120 - Technology Ethics 
 
