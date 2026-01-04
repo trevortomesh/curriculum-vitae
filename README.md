@@ -1,147 +1,111 @@
-## Dr. Trevor Michael Tomesh
+## DR. TREVOR MICHAEL TOMESH
 
-**Assistant Professor**  
-*University of Wisconsin - River Falls*
+Assistant Professor of Computer, Information & Data Sciences
+University of Wisconsin–River Falls
+Email: trevor.tomesh@uwrf.edu
 
-**Ph.D. Computer Science**
+------
 
-**Contact Information**
-**Email:** [trevor.tomesh@uwrf.edu](mailto:trevor.tomesh@uwrf.edu)
+## EDUCATION
 
-## Education
+Ph.D. in Computer Science, 2020
+	University of Regina
+	Dissertation: *Toward a Theory of Interactive Hardware*
+	Advisor: Dr. Daryl Hepting
 
-**PhD in Computer Science**
+B.Sc. in Physics, 2011
+	University of Wisconsin–River Falls
+	Minor: Mathematics
+	Honors: Sigma Pi Sigma Physics Honor Society; Ronald E. McNair Scholar
 
-- *University of Regina*
-- Class of 2020
-- Thesis Title: "Toward a Theory of Interactive Hardware"
-- Supervisor: Dr. Daryl Hepting
+------
 
-**BSc in Physics**
+## ACADEMIC APPOINTMENTS
 
-- *University of Wisconsin River Falls*
-- Class of 2011
-- Minor in Mathematics
-- Member of Sigma Pi Sigma Physics Honors Society
-- Ronald E. McNair Scholar
+Assistant Professor (2022–Present)
+University of Wisconsin–River Falls
+Courses Taught
 
-## Research
+- CIDS 161 — Introduction to Programming (Python)
+- CIDS 162 — Computer Programming (Java)
+- CIDS 235 — Programming Paradigms
+- CIDS 225 — Web Design (HTML & CSS)
+- CIDS 325 — Web Development (JavaScript)
+- CIDS 120 — Technology Ethics
+- CIDS 246 — Introduction to Physical Computing
+- CIDS 389 — Special Topics (Game Design)
 
-### Publications
+### Curriculum Development & Teaching Innovation
 
-1. Tomesh, T. and Hepting, D. (2017). [Environmental Sensing with Recycled Materials](https://www.oreilly.com/ideas/environmentalsensing-with-recycled-materials). O'Reilly Media.
+- Designed and piloted CIDS 246: Introduction to Physical Computing, an Arduino-based embedded systems course; approved and added as a regular catalog offering.
+- Submitted a proposal for dedicated physical computing lab space in the former South Hall Maker Space to support instruction and student–faculty research.
+- Redesigned CIDS 235 from a narrow object-oriented focus into a comprehensive programming paradigms course.
+- Actively collaborating with the department to transition Game Design from special topics to a regularly listed course.
+- Emphasized active learning through live coding, worked examples, frequent questioning, and real-time pacing adjustments.
+- Integrated AI-assisted instructional tools for lecture notes and formative feedback with transparency, explicit guidelines, and instructor oversight.
+- Developed and implemented student AI-use guidelines, including explicit instruction on ethical and effective AI use in Programming Paradigms and Web Programming.
+- Peer observations and student evaluations consistently note clarity, engagement, effective pacing, and strong command of technical material.
 
-2. Tomesh, Trevor Michael, and Daryl H. Hepting. "DIY Game Console Development." Proceedings of the first ACM SIGCHI annual symposium on Computer-human interaction in play. ACM, 2014.
+------
 
-3. Tomesh, Trevor M. "Teaching Programming with Python and the Blender Game Engine."
+## RESEARCH & SCHOLARSHIP
 
-4. Tomesh, Trevor, and Colin Price. "Design and Development of Physics Simulations in the Field of Oscillations and Waves Suitable for K-12 and Undergraduate Instruction Using Video Game Technology." APS Meeting Abstracts. 2011.
+### Research Interests
 
-5. Tomesh, Trevor. "Computational Simulation of a Simple Pendulum Driven by a Natural Chaotic Function." APS March Meeting Abstracts. 2010.
+- Computational & Theological Computing
+- Algorithmic Decision-Making and Pre-Modern Computation
+- Large Language Models in Game Development
+- AI-Assisted Technical Design and Ethics
+- AI in Computing Education
 
-### General Research Interests
+### Active & Recent Projects
 
-My research interests lie at the intersection of computing and other fields. I am particularly focused on interactive computing systems, cybernetic approaches to human-computer interaction, and "humane" computing system design, such as human-readable databases. Additionally, I have a keen interest in systems theory, games, and simulations as well as applications for LLMs. 
+- Computational Theology Project
 
-I am dedicated to involving students in research endeavors.
+  Finalizing a peer-review journal manuscript analyzing an algorithmic decision-making procedure in the Book of Samuel through the lens of computer science, including structure, complexity, and constraints.
 
-### Graduate Research in Educational Game Development (2011-2012)
+- LLM-Assisted Technical Design
 
-*University of Worcester, Computing Department, Worcester, England*
+  Co-authored a research paper with an undergraduate student on LLM-assisted 3D-printed firearms
 
-- Developed a working prototype of an educational game for high school physics students using the Blender Game Engine.
-- Conducted interviews with students to assess their knowledge and experiences with educational games and their interest in game-based learning.
-- Presented research at various conferences in Europe and the UK.
+- Things We Think With
 
-### Interim Research Assistant (2010)
+  Revising a forthcoming book chapter with collaborators at the University of Regina.
 
-*University of Worcester, Computing Department, Worcester, England*
+- Undergraduate Research Mentorship:
 
-- Designed and developed simulations in the fields of waves and oscillations using video game technology for physics education.
-- Utilized the Unreal Tournament 2004 engine to model oscillators for K-12 and undergraduate physics classrooms.
-- Evaluated model fidelity by comparing to theoretical and computational models.
+  - Deep reinforcement learning in game environments — presented to CIDS faculty
+  - Physical random number generation using embodied systems — poster presented at the URSCA Fall Gala
 
-### Researcher, Research Experience for Undergraduates Program (2009)
+------
 
-*Vanderbilt University, Physics Department, Nashville, Tennessee*
+## PUBLICATIONS & SCHOLARLY CONTRIBUTIONS
 
-- Computationally modeled the effects of black hole kicks on the density of globular clusters using N-body simulations on the ACCRE supercomputing cluster.
-- Developed a density profiling program in FORTRAN for analyzing the density of globular clusters.
-- Produced movies of the physical and density evolution of globular clusters using Supermongo.
-- Enhanced N-body simulations with routines for random gravitational wave recoils in merging black hole pairs.
+1. Tomesh, T., & Hepting, D. (2017). *Environmental Sensing with Recycled Materials*. O’Reilly Media.
+2. Tomesh, T., & Hepting, D. (2014). DIY Game Console Development. *Proceedings of the ACM SIGCHI Symposium on Computer-Human Interaction in Play*.
+3. Tomesh, T. (2014). Teaching Programming with Python and the Blender Game Engine.
+4. Tomesh, T., & Price, C. (2011). Design and Development of Physics Simulations for K–12 Instruction Using Video Game Technology. *APS Meeting Abstracts*.
+5. Tomesh, T. (2010). Computational Simulation of a Simple Pendulum Driven by a Natural Chaotic Function. *APS March Meeting Abstracts*.
+6. Ricketts, A., et al. (Forthcoming, 2025). *Curricular Explorations Through and With Objects*. Springer.
 
-### Research Assistant, UW River Falls Radio Telescope (2009)
+------
 
-*UW River Falls Physics Department, River Falls, Wisconsin*
+## SERVICE
 
-- Constructed a functional Radio JOVE radio telescope for receiving radio signals from Jupiter's magnetosphere.
-- Processed, analyzed, and visualized the received data.
+### University Service
 
-### Service
+- Member, AI Advisory Committee
+- Member, Academic Standards Committee
+- Collaborated with the Dean of Students on civil-dialogue programming initiatives
+- Co-author, Menard Center grant proposal supporting campus dialogue and civic engagement
 
-#### Committees
+### Student Organization Advising
 
-**Member - UWRF Student Support Services Coach Search and Screen Committee (2023)**
+- Faculty Advisor, College Republicans — UWRF (2024–Present)
+- Faculty Advisor, Young Americans for Liberty — UWRF (2025–Present)
 
-- Participated in the search for a new academic coach for the Student Support Services at UWRF.
+### Professional & Public Engagement
 
-**Chair - University of Regina Coop Committee (2022)**
-
-- The Coop Committee oversees the review and approval of coop position applications and evaluates coop reports.
-
-**Student Representative - University of Regina Creative Technologies Committee (2017-2018)**
-
-- Participated in joint meetings of the Arts and Computer Science departments to shape the direction of the Creative Technologies program.
-
-#### Peer-Review
-
-1. Mouhoub, Malek, et al., eds. Recent Trends and Future Technology in Applied Intelligence: 31st International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems, IEA/AIE 2018, Montreal, QC, Canada, June 25-28, 2018, Proceedings. Vol. 10868. Springer, 2018.
-2. Amine, Abdelmalek, et al., eds. Computational Intelligence and Its Applications: 6th IFIP TC 5 International Conference, CIIA 2018, Oran, Algeria, May 8-10, 2018, Proceedings. Vol. 522. Springer, 2018.
-
-#### Other
-
-**Faculty Advisor - UWRF Turning Point USA (2023 - Present)**
-
-- Providing guidance, mentorship, and support to student activists in establishing and maintaining a TPUSA chapter on campus, coordinating events, promoting conservative values, advocating for limited government and free-market principles, and maintaining compliance with university policies, thus contributing to the organization's mission of empowering the next generation of conservative leaders.
-
-## Teaching
-
-**Assistant Professor (Tenure Track) University of Wisconsin - River Falls (2022 - Present)**
-
-Courses Taught:
-
-- CIDS 161 - Programming I (Python)
-- CIDS 162 - Programming II (Java)
-- CIDS 235 - Programming Paradigms (Java)
-- CIDS 225 - Web Development I (HMTL + CSS)
-- CIDS 325 - Web Development II (JavaScript)
-- CIDS 120 - Technology Ethics 
-
-**Term Lecturer  - University of Regina (2021 - 2022)**
-
-Courses Taught:
-
-- CS 205 - Introduction to Multimedia Systems
-- CS 455 / 855 - Mobile Computing
-- CS 280 - Risk and Reward in the Information Society (Fall 2021)
-- CS 890AC - Data Analysis from the Internet (Fall 2021)
-
-**Sessional Lecturer - Lakehead University (2021)**
-
-Courses Taught:
-
-- COMP 2340 - Mobile Computing (Winter 2021)
-- COMP 5112 GDE - Research Methodology (Summer 2021)
-
-**Sessional Lecturer - University of Regina (2014 - 2021)**
-
-Courses Taught:
-
-- CS 110 - Programming and Problem Solving (Spring 2021)
-- CS 207 - Building Interactive Gadgets (2014 - 2021)
-- CS 427 / 827 - Computer Audio (Fall 2018)
-- CS 330 - Intro to Operating Systems (Spring 2018)
-- CS 290 AK - Topics in Data Acquisition and Analysis (Winter 2018)
-- CS 290 AJ - Interactive Simulation Methods (Fall 2017, Winter 2019)
-- CS 829 - Information Theory and Applications (Summer 2019)
-- CS 890AC - Data Analysis from the Internet
+- Invited Speaker, Wisconsin Association of Scholars Fall Meeting
+- Member, Wisconsin Association of Scholars / American Association of Scholars
+- Panelist, TRIO McNair Alumni Retreat — advising first-generation students on graduate school preparation
